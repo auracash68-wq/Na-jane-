@@ -1,0 +1,6 @@
+{
+  "name": "Media Compressor",
+  "description": "Professional media compression tool for photos, videos, audio, and batch files with real-time quality control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
